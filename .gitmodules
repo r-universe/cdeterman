@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RViennaCL"]
+	path = RViennaCL
+	url = https://github.com/cdeterman/rviennacl
+	shallow = true
+	registered = true
+[submodule "OmicsMarkeR"]
+	path = OmicsMarkeR
+	url = https://github.com/cdeterman/omicsmarker
+	shallow = true
+	registered = true
