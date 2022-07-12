@@ -2,8 +2,5 @@
   {
     "package": "RViennaCL",
     "oncran": true
-  },
-  {
-    "package": "OmicsMarkeR"
   }
 ]
