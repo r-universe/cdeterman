@@ -5,3 +5,6 @@
 [submodule "RViennaCL"]
 	path = RViennaCL
 	url = https://github.com/cdeterman/rviennacl
+[submodule "gpuR"]
+	path = gpuR
+	url = https://github.com/cdeterman/gpur
